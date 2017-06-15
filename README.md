@@ -1,8 +1,3 @@
-# Lat-SJ
-Repo untuk latihan github
-
-
-
 # Pembukaan IPHO
 
 ## Progres
